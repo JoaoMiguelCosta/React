@@ -1,0 +1,40 @@
+
+@media (max-width: 48rem) {
+
+    .title7 {
+  width: 273px;
+  height: 30px;
+
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+
+color: #21243D;
+
+
+      
+      }
+          }
+      
+    
+              
+      
+      @media (min-width: 48rem) {
+       .title7 {
+  
+display: none;
+
+         
+       
+          
+          }
+          }
+          
+      
+          
+                  
+       
+      

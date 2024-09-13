@@ -1,0 +1,19 @@
+@media (max-width: 48rem) {
+      
+    .hamburguer { list-style: none; text-align: center; display: flex; align-items:center; justify-content: center; position: relative}
+    .icon {width: 30px; height: 18px; position: absolute; top: 48%;}
+      
+   }
+   
+   
+
+
+@media (min-width: 48rem) {
+
+    .hamburguer { list-style: none; text-align: center; display: none;}
+   .icon {width: 30px; height: 18px; display: none;}
+    
+   }
+   
+
+   

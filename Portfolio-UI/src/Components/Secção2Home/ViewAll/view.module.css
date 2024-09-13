@@ -1,0 +1,36 @@
+@media (max-width: 48rem) {
+
+    .view { display: none;
+     }
+
+     
+    }
+
+
+
+
+
+
+@media (min-width: 48rem) {
+
+.view {
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+    color: blue;
+
+    }
+
+.paragrafh {width: 208px;
+    height: 20px;
+    background-color: aqua;
+    text-align: right;
+
+}
+
+
+}

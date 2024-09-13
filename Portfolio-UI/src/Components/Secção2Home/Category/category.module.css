@@ -1,0 +1,145 @@
+
+@media (max-width: 48rem) {
+.category1 {
+
+
+
+width: 109px;
+height: 24px;
+left: 167px;
+top: 1093px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+color: #21243D;
+
+
+    }
+        
+    
+            
+    .category4
+    {
+
+     
+      
+       height: 24px;
+       
+       
+       font-family: 'Heebo';
+       font-style: normal;
+       font-weight: 400;
+       font-size: 20px;
+       line-height: 29px;
+       display: flex;
+       align-items:  center;
+    
+
+      
+       color: #8695A4;
+       
+       }
+
+       .category10 {
+       
+     
+      
+        
+        font-family: 'Heebo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 26px;
+    
+        color: #21243D;
+       
+        
+        
+        }
+
+        .pai {background-color: white;
+        display: flex;
+    flex-direction: column;
+    height: 34px;
+   margin-left: 5%;
+    }
+        }
+  
+
+
+    
+    @media (min-width: 48rem) {
+   
+        .category1 {
+            
+            width: 239px;
+            height: 34px;
+           
+            
+            font-family: 'Heebo';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 26px;
+            display: flex;
+            align-items:  center;
+         
+            color: #21243D;
+            
+            }
+    
+            
+        .category4
+         {
+
+          
+            width: 374px;
+            height: 34px;
+            
+            
+            font-family: 'Heebo';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 29px;
+            display: flex;
+            align-items:  center;
+         
+
+           
+            color: #8695A4;
+            
+            }
+
+                 
+        .category9
+        {
+
+         
+           width: 374px;
+           height: 34px;
+           
+           
+           font-family: 'Heebo';
+           font-style: normal;
+           font-weight: 400;
+           font-size: 20px;
+           line-height: 29px;
+           display: flex;
+           align-items:  center;
+        
+
+          
+           color:  black;
+           
+           }
+
+            
+        }
+                
+     
+    

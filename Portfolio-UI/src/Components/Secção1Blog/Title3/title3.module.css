@@ -1,0 +1,51 @@
+
+@media (max-width: 48rem) {
+
+    .title3 {
+  
+    
+width: 312px;
+height: 38px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 38px;
+
+
+color: #21243D;
+
+
+      
+      }
+          }
+      
+    
+              
+      
+      @media (min-width: 48rem) {
+       .title3 {
+  
+   
+width: 682px;
+height: 47px;
+
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 44px;
+
+
+color: #21243D;
+
+
+          
+          }
+          }
+          
+      
+          
+                  

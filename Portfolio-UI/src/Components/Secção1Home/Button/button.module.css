@@ -1,0 +1,62 @@
+
+
+@media (max-width: 48rem) {
+  .button {
+    background: red;
+
+border: none;
+    width: 208px;
+      
+      height: 47px;
+      
+     }
+
+
+  
+     .name {
+  
+     
+      width: 167px;
+      height: 21px;
+    
+      
+      font-family: 'Heebo';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 20px;
+      line-height: 29px;
+      
+      color: #FFFFFF;
+      }
+    }
+
+
+
+
+
+
+@media (min-width: 48rem) {
+.button {background-color: red;
+    
+  width: 182px;
+    border: none;
+    height: 40px;
+    
+   }
+
+   .name {
+
+   
+    width: 167px;
+    height: 21px;
+  
+    
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    
+    color: #FFFFFF;
+    }
+  }

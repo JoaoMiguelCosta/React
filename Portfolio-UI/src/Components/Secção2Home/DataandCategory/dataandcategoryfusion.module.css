@@ -1,0 +1,90 @@
+
+@media (max-width: 48rem) {
+    .paragrafo1 {
+        background-color: gray; width: 1%; display: flex; justify-content: center; align-items: center; height: 60%; 
+            }
+
+            
+            
+            .Pai {display: flex; 
+
+                width: 374px;
+                height: 34px;
+                gap: 5%;
+                align-items: center;
+                justify-content: start;
+                margin-left: 6%;
+                
+                
+
+                
+              
+
+
+                
+                }
+.Pai13 {display: none;}
+              
+
+                .Pai12 {background-color: white; display: flex; gap: 5%;    align-items: center;
+                    justify-content: start; width: 100%;}
+
+                .paragrafo2 {
+                    display: none;
+                        }
+
+                        .Pai14 {display: none;}
+                        .Pai11 {background-color: white; display: flex; gap: 5%;    align-items: center;
+                            justify-content: start; width: 100%;}
+
+                            .Pai15 {background-color: white; display: flex;   align-items: center;
+                                justify-content: start; width: 90%; height: 100%;}
+
+                           
+            }
+            
+           
+
+            
+@media (min-width: 48rem) {
+    .paragrafo1 {
+                background-color: gray; width: 2px; display: flex; justify-content: center; align-items: center; height: 60%; color: gray;
+                    }
+                    
+                    .Pai {display: flex; 
+
+                        width: 374px;
+                        height: 34px;
+                        gap: 5%;
+                        align-items: center;
+                        justify-content: center;
+                        
+
+                        
+                      
+
+
+                        
+                        }
+
+                        .Pai12 {display: none;}
+
+                        .paragrafo2 {
+                            display: none;
+                                }
+
+                                .Pai11 {background-color: white; display: flex; gap: 5%;    align-items: center;
+                                    justify-content: start;}
+
+                                               
+                .Pai13 {background-color: white; display: flex; gap: 5%;    align-items: center;
+                    justify-content: start;}
+
+                                                       
+                .Pai14 {background-color: white; display: flex; gap: 2%;    align-items: center;
+                    justify-content: start; }
+                    .Pai15 {display: none;}
+                        }
+                          
+             
+                  

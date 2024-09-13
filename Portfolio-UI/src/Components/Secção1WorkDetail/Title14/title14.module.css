@@ -1,0 +1,38 @@
+@media (max-width: 48rem) {
+
+    .pai {
+
+     
+        width: 339px;
+        height: 80px;
+       
+        
+        
+        
+        }
+    .title14 {
+      
+
+        font-family: 'Heebo';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 40px;
+      
+        
+      
+        color: #21243D;
+
+
+    }
+}
+
+@media (min-width: 48rem) {
+    .title14 {
+        display: none;
+        
+    }
+}  
+        
+            
+                    

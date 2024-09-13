@@ -1,0 +1,52 @@
+@media (max-width: 48rem) {
+
+    .Recent {
+    
+
+        width: 105px;
+        height: 60px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 60px;
+text-align: center;
+
+
+
+color: #21243D;
+
+
+        
+        }
+
+     
+    }
+
+
+
+
+
+
+@media (min-width: 48rem) {
+
+.Recent {
+
+   
+    width: 129px;
+    height: 60px;
+   
+    text-align: left;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: "400";
+    font-size: 22px;
+    line-height: 60px;
+    color: #21243D;
+   
+    }
+
+
+
+}

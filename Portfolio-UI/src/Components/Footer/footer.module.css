@@ -1,0 +1,44 @@
+@media (min-width: 48rem) {
+    .footer {
+     width: 72rem;
+     height: 11.375rem;
+     background-color: white;
+     display: flex;
+     flex-direction: column;
+
+
+     
+    }
+
+    ul {list-style-type: none;background-color: white; display: flex; justify-content: center; height: 50%; gap: 2%;}
+
+li {background-color: white; display: flex; justify-content: center; align-items: end;}
+   
+.Copy {display: flex; background-color: white; height: 30%; justify-content: center; align-items: center; gap: 5px;}
+
+.Copy2 {display: flex; background-color: white; height: 30%; justify-content: center; align-items: center; flex-direction: column;}
+}
+
+   
+
+
+
+@media (max-width: 48rem) {
+    .footer{
+        width: 23.4375rem;
+        height: 11.375rem;
+        background-color: white;
+       
+      
+    }
+   
+    ul {list-style-type: none;background-color: white; display: flex; justify-content: center; height: 50%; gap: 10%;}
+
+    li {background-color: white; display: flex; justify-content: center; align-items: end;}
+       
+    .Copy {display: flex; background-color: white; height: 30%; justify-content: center; align-items: center; gap: 5px;}
+    
+.Copy2 {display: flex; background-color: white; height: 30%; justify-content: center; align-items: center; gap: 5px;}
+}
+
+

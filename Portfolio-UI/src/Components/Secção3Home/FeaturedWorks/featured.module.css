@@ -1,0 +1,43 @@
+@media (max-width: 48rem) {
+
+    .Featured {
+width: 124px;
+height: 60px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 60px;
+color: #21243D;
+text-align: center;
+
+ }
+
+     
+    }
+
+
+
+
+
+
+@media (min-width: 48rem) {
+
+.Featured {
+
+width: 152px;
+height: 60px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 60px;
+color: #21243D;
+text-align: center;
+
+
+}
+
+
+
+}

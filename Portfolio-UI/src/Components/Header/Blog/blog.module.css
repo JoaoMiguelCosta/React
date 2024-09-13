@@ -1,0 +1,50 @@
+
+@media (min-width: 48rem){
+  .blog { list-style: none; width: 57px; height: 43px; text-align: center; background-color: white;}
+
+
+  .BlogText {font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    text-decoration: none;
+    color: black;}
+   
+   
+
+    .BlogText2 {font-family: 'Heebo';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 20px;
+      line-height: 29px;
+      text-decoration: none;
+      color :orange;}
+     
+     
+   
+}
+
+@media (max-width: 48rem){
+  .blog { list-style: none; width:37px; height: 43px; text-align: center; background-color: white;}
+
+  .BlogText {font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 29px;
+    text-decoration: none;
+    color: black;
+   
+  }
+   
+   
+
+    .BlogText2 {font-family: 'Heebo';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 17px;
+      line-height: 29px;
+      text-decoration: none;
+      color :orange;}
+}

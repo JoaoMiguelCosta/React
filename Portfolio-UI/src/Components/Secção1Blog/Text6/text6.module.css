@@ -1,0 +1,39 @@
+
+@media (max-width: 48rem) {
+
+    .text6 {
+  display: none;
+      
+      
+          }    }
+      
+    
+              
+      
+      @media (min-width: 48rem) {
+       
+  .text6 {
+    width: 682px;
+    height: 89px;
+   
+    
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+ 
+    color: #21243D;
+    border-bottom: 2px solid gray;
+    
+    
+         
+          
+          
+          }
+          }
+          
+      
+          
+                  

@@ -1,0 +1,205 @@
+@media (max-width: 48rem) {
+
+  
+   
+.pai {background-color: white; height: 123.9375rem ; width:23.4375rem; display: flex; flex-direction: column; justify-content: center; align-items: center;}
+
+    .header {background-color: white; width: 100%; height: 5%;}
+
+    .seccion {background-color: white; height: 100%; width: 95%; display: flex; flex-direction: column;}
+
+    .seccion1 {background-color: black; display: flex; height: 50%; flex-direction: column; width: 100%;}
+
+    .seccion11 {background-color: white; width: 100%; height: 100%; display: flex; flex-direction: column;}
+
+.seccion111a {background-color: white;height: 100%; width: 100%; display: flex; flex-direction: column-reverse;}
+
+.seccion111a1 {background-color: white; width: 100%; height: 70%; display: flex; align-items: center; justify-content: center; flex-direction: column;}
+
+
+.seccion111a15 {background-color: white; height: 50%; display: flex; align-items: center; width: 100%; justify-content: center;}
+
+.seccion111a16 {background-color: white; display: flex; align-items: center;width: 100%; justify-content: center;}
+
+.seccion111a17 {background-color: white; height: 25%; display: flex; align-items: center;width: 100%; justify-content: center;}
+
+.seccion111a2 {background-color: white;width: 30%; display: flex; align-items: center;}
+
+.seccion111a25 {background-color: white;width: 174.38px;
+    height: 180px;}
+
+
+
+.seccion111a2 {background-color: white;width: 100%;height: 50%; display: flex; align-items: center; justify-content: center;}
+
+.seccion111b {background-color: white; height: 5%; width: 100%;}
+
+.seccion2 {background-color: white; height: 50%; display: flex; flex-direction: column;}
+
+.seccion22 {background-color: white; width: 100%; height: 100%; display: flex; flex-direction: column;}
+
+.seccion22a {background-color: aqua; height: 7%; display: flex; justify-content: center; }
+
+.seccion22a1 {background-color: aqua; display: flex; align-items: center;justify-content: center;width: 105px;
+    height: 60px;
+    }
+
+  
+
+.seccion22b {background-color: aqua; height: 90%; display: flex ;  gap: 5%; flex-direction: column; justify-content: center; align-items: center; }
+.seccion22b1 {background-color: white; width: 95%; display: flex; flex-direction: column;  }
+
+
+.seccion22b2 {background-color: white; width: 95%;display: flex; flex-direction: column;}
+
+.seccion22b11 {background-color: white; display: flex; align-items: center; justify-content: center; margin-bottom: 5%; margin-right: 5%;}
+.seccion22b12 {background-color: white;display: flex; align-items: center; justify-content: center;}
+.seccion22b13 {background-color: white; display: flex; align-items: center; justify-content: center; margin-top: 5%; margin-left: 5%;}
+
+.component1 {display: flex; width: 100%; align-items: center; justify-content: center;}
+
+
+
+
+
+.component2 {display: none;}
+
+
+.seccion3 {background-color: white; height: 50%;display: flex; flex-direction: column;}
+
+.seccion33 {background-color: white; width: 100%; height: 100%; display: flex; flex-direction: column;}
+
+.seccion33a {background-color: aqua; height: 5%; display: flex; justify-content: center; align-items: center;} 
+
+.seccion33a1 {background-color: white; display: flex; align-items: center;justify-content: center; width: 100%; }
+
+.seccion33b {background-color: white; height: 80%; display: flex; flex-direction: column; margin-left: 3%;}
+
+.seccion33b1 {background-color: brown; display: flex;flex-direction: column; height: 100%; width: 100%;}
+
+.seccion33b1a {background-color: white; display: flex; height: 55%; justify-content: start; align-items: center;}
+.seccion33b1b {background-color: white;display: flex; flex-direction: column; height: 45%; border-bottom: 2px solid gray;}
+
+.seccion33b1ba {background-color: white; height: 25%; display: flex; align-items: center; justify-content: start;}
+.seccion33b1bb {background-color: yellow; height: 25%; display: flex;}
+.seccion33b1bc {background-color: white; height:50%; }
+.seccion33b2 {background-color: gray; height: 50%;display: flex; display: none;}
+
+.seccion33b3 {background-color: white; height: 50%;display: flex; display: none;}
+.seccion3imagem {background-color: white; width: 339px; height: 230px;}
+.click {cursor: pointer;}
+
+.click:hover {opacity: 0.5;}
+
+}
+
+
+
+
+
+@media (min-width: 48rem) {
+    
+.pai {background-color: white; height:  116.1875rem; width: 72rem; display: flex; flex-direction: column; justify-content: center; align-items: center;}
+
+.header {background-color: white; width: 100%; height: 5%;}
+
+.seccion {background-color:white; height: 95%; width: 100%; display: flex; flex-direction: column;}
+
+.seccion1 {background-color: white; height: 36.09375rem; justify-content: center; align-items: center; display: flex; flex-direction: column;}
+
+.seccion11 {background-color: white; width: 90%; height: 100%; display: flex; flex-direction: column;}
+
+.seccion111a {background-color: white;height: 90%; width: 100%; display: flex; }
+
+.seccion111a1 {background-color: white; width: 60%; display: flex; flex-direction: column;}
+
+.seccion111a15 {background-color: white; height: 50%; display: flex; align-items: end; }
+
+.seccion111a16 {background-color: white; height: 25%; display: flex; align-items: center;}
+
+.seccion111a17 {background-color: white; height: 25%; display: flex; align-items: center;}
+
+.seccion111a2 {background-color: white; width: 40%; display: flex; align-items: center; justify-content: center;}
+
+.seccion111a25 {background-color: white;width: 243px;
+    height: 243px;}
+
+
+
+.seccion111b {background-color: white; height: 10%; width: 100%;}
+
+.seccion2 {background-color: aqua; height: 24.75rem;justify-content: center; align-items: center; display: flex; flex-direction: column;}
+
+.seccion22 {background-color: aqua; width: 90%; height: 100%; display: flex; flex-direction: column;}
+
+.seccion22a {background-color: aqua; height: 15%; display: flex; width: 82.66%; justify-content: space-between;}
+
+.seccion22a1 {background-color: aqua; display: flex; align-items: center;justify-content: center;width: 129px;
+    height: 60px;
+    }
+
+    .seccion22a2 {background-color: aqua; display: flex; align-items: center;justify-content: center;
+        }
+.seccion22b {background-color: aqua; height: 90%; display: flex ; }
+
+.seccion22b1 {background-color: aqua; 
+
+   
+    width: 418px;
+    height: 295px;
+    
+    
+   
+     display: flex; flex-direction: column;}
+.seccion22b2 {background-color: white; display: flex; flex-direction: column; margin-left: 2%; width: 418px;
+    height: 295px;
+    }
+.seccion22b3 {background-color: aqua; width: 8%;}
+
+.seccion22b11 {background-color: white; height: 50%; display: flex; align-items: center; justify-content: center;}
+.seccion22b12 {background-color: white; height: 50%; display: flex; align-items: center; justify-content: center;}
+
+
+.seccion22b13 {background-color: white; height: 50%; display: flex; align-items: center; justify-content: center;}
+
+.component1 {display: none;}
+
+.seccion3 {background-color: white; height: 56.09375rem;justify-content: center; align-items: center;display: flex; flex-direction: column;}
+
+.seccion33 {background-color: white; width: 90%; height: 100%; display: flex; flex-direction: column;}
+
+.seccion33a {background-color: white; height: 5%; display: flex; margin-top: 3%;}
+
+.seccion33a1 {background-color: white; display: flex; align-items: center;justify-content: center;  }
+
+.seccion33b {background-color: white; height: 95%; display: flex; flex-direction: column;}
+
+.seccion33b1 {background-color: white; height: 50%; display: flex;}
+
+.seccion33b1a {background-color: white; width: 25%; border-bottom: 2px solid gray;display: flex; justify-content: start; align-items: center;}
+.seccion33b1b {background-color: white; border-bottom: 2px solid gray; display: flex; flex-direction: column;align-items: start; justify-content: center; gap: 2%;width: 57.3%;}
+
+.seccion3imagem {background-color:white;
+
+    
+    width: 246px;
+    height: 180px;
+  
+    
+
+    }
+
+.seccion33b1ba {background-color: white; display: flex;}
+.seccion33b1bb {background-color: white;  display: flex;}
+.seccion33b1bc {background-color: white; display: flex; }
+
+
+.seccion33b2 {background-color: white; height: 50%; display: flex;}
+
+.seccion33b3 {background-color: white; height: 50%;display: flex;}
+
+.click {cursor: pointer;}
+
+.click:hover {opacity: 0.5;}
+}
+

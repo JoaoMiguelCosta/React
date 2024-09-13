@@ -1,0 +1,34 @@
+
+@media (max-width: 48rem) {   .regularImage {background-color: white;
+}
+
+.specialImage {display: none;}
+}
+
+
+
+      
+      
+      
+    
+              
+@media (min-width: 48rem){ .specialImage {background-color: white;}  .regularImage {display: none;
+}
+}
+
+
+
+
+
+
+    
+ 
+    
+         
+          
+          
+          
+          
+        
+      
+          

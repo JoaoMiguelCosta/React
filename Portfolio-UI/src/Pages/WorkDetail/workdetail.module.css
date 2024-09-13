@@ -1,0 +1,98 @@
+@media (max-width: 48rem) {
+    .Pai{background-color: white;  width: 375px;
+        height: 1637px; display: flex; flex-direction: column; gap: 2%;}
+        .Header {display: flex; background-color: white; width: 100%; height: 5%;}
+        .Seccao1 {display: flex; background-color: white; height:40% ; width: 100%; flex-direction: column;  align-items: center; }
+        .Seccao2 {display: flex; background-color:white; height:60% ; width: 100%;  flex-direction: column; align-items: center; gap:2% }
+        .Seccao11 {background-color: white; width: 100%; height: 20%;display: flex; align-items: center; justify-content: center; margin-left: 7%;}
+        .Seccao12 {background-color: white; width: 100%; height: 20%; display: flex; align-items: center; justify-content: center; margin-left: 7%;}
+        .Seccao13 {background-color: white; width: 100%; height: 20%; display: flex; align-items: center; justify-content: center;}
+        .Seccao14 {background-color: orangered; 
+
+        
+            width: 339px;
+            height: 256px;
+
+            margin-left: 7%;
+         
+            }
+            .Seccao141 {background-color: black; width: 100%; height: 50%;}
+            .Seccao142 {background-color: red; width: 100%; height: 50%;}
+            .Seccao21 {background-color: white; width: 100%;  display: flex; }
+            .Seccao22 {background-color: white; width: 100%; ; display: flex; }
+            .Seccao23 {background-color: white; width: 100%; display: flex; align-items: center; justify-content: center;}
+            .Seccao24 {background-color: gray;  
+
+             
+                width: 339px;
+                height: 256px;
+                left: 18px;
+                top: 889px;
+               
+                margin-left: 7%;
+            
+
+        
+ 
+        
+    
+            }
+        .Seccao25 {background-color: black; 
+
+         
+            width: 339px;
+            height: 257px;
+          
+             
+            margin-left: 7%;
+            
+            
+             }
+            
+     }
+    
+
+
+    
+    
+    
+    
+    
+    @media (min-width: 48rem) {
+    
+    .Pai{background-color: brown;  height: 142.6875rem; width: 72rem; display: flex; flex-direction: column; }
+
+     .Header {display: flex; background-color: orange; width: 100%; height: 5%;}
+
+        
+    .Seccao1 {display: flex; background-color: white; height:40% ; width: 100%; flex-direction: column; justify-content: center; align-items: center;} 
+    .Seccao2 {display: flex; background-color:white; height:60% ; width: 100%;  flex-direction: column; align-items: center;}
+
+    .Seccao11 {background-color: white; width: 80%; ;display: flex; }
+    .Seccao12 {background-color: white; width: 80%; height: 10%; display: flex;}
+    .Seccao13 {background-color: white; width: 80%; height: 10%; display: flex;}
+    
+    
+    .Seccao14 {background-color: orangered; width: 681px; height: 460px; display: flex; flex-direction: column; margin-right: 20.9%; }
+    .Seccao141 {background-color: black; width: 100%; height: 50%;}
+    .Seccao142 {background-color: red; width: 100%; height: 50%;}
+
+    .Seccao21 {background-color: white; width: 80%; height: 5%; display: flex;}
+    .Seccao22 {background-color: white; width: 80%; height: 5%; display: flex;}
+    .Seccao23 {background-color: white; width: 80%; height: 10%;}
+    .Seccao24 {background-color: gray;  width: 681px; height: 460px;margin-right: 20.9%; 
+
+        
+ 
+        
+    
+        }
+    .Seccao25 {background-color: purple; width: 681px; height: 460px;margin-right: 20.9%; }
+
+        
+    
+    
+    }
+    
+    
+    

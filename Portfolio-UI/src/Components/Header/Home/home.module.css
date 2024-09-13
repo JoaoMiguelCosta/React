@@ -1,0 +1,53 @@
+@media (min-width: 48rem){
+    
+.Home1 {font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    text-decoration: none;
+    color: black;}
+   
+       
+      
+  
+      .Home2 {font-family: 'Heebo';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 29px;
+        text-decoration: none;
+        color: orange;
+      }
+      
+     
+  
+        .home{ list-style: none; width: 57px; height: 43px; text-align: center; background-color: white;}
+     
+}
+
+@media (max-width: 48rem){
+    .Home1 {font-family: 'Heebo';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 29px;
+        text-decoration: none;
+        color: black;}
+       
+           
+          
+      
+          .Home2 {font-family: 'Heebo';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 17px;
+            line-height: 29px;
+            text-decoration: none;
+            color: orange;
+          }
+          
+         
+      
+            .home{ list-style: none; width: 37px; height: 43px; text-align: center; background-color: white;}
+}

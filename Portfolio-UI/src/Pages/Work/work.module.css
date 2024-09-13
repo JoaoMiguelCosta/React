@@ -1,0 +1,117 @@
+  
+    @media (max-width: 48rem) {
+        .pai {background-color: white; height: 67.4375rem; width: 23.4375rem; display: flex; flex-direction: column;}
+         
+       
+    
+    
+        .header { display: flex; background-color: orange; width: 100%; height: 5%;}
+        
+        .seccion {display: flex; background-color: white; width: 100%; height: 95%; justify-items: center; align-items: center; flex-direction: column;}
+        
+        .seccion1 {display: flex; background-color: white; width: 95%; height: 100%;justify-content: center; align-items: center;}
+    
+        .seccion33 {background-color: green; width: 90%; height: 100%; display: flex; flex-direction: column;}
+    
+    .seccion33a {background-color:white; height: 5%; }
+    
+    .seccion33b {background-color: rebeccapurple; height: 95%; display: flex;flex-direction: column;}
+
+    
+    
+    .seccion33b1 {background-color: brown; height: 50%; display: flex; flex-direction: column; }
+
+    .seccion33b1a {background-color: white; display: flex; height: 70%; justify-content: center; align-items: center;} 
+    .seccion33b1b {background-color: white;  display: flex; height: 60%; flex-direction: column; justify-content: center; gap: 5%; border-bottom: 2px solid gray;}
+    
+    .seccion33b1ba {background-color: white; }
+    .seccion33b1bb {background-color: yellow;  }
+    .seccion33b1bc {background-color: white;}
+    
+    .seccion33b2 {background-color: gray; height: 50%; display: flex; flex-direction: column;}
+    
+    .seccion33b3 {background-color: green; height: 50%;display: flex; display: none;}
+    
+    .seccion33b4 {background-color: orange; height: 50%;display: flex; display: none; }
+
+    .click:hover {opacity: 0.5; cursor: pointer;}
+
+    .click {height: 100%; display: flex; flex-direction: column; justify-content: center; gap: 4%;}
+
+    
+    }
+         
+        
+    .imagem {
+
+        background-color: white;
+        width: 339px;
+        height: 230px;
+       
+       
+       
+        
+       
+        }
+    
+   
+  
+
+
+
+
+@media (min-width: 48rem) {
+    .pai {background-color: red; height: 84.5rem; width: 72rem; display: flex; flex-direction: column;}
+         
+       
+    
+    
+    .header { display: flex; background-color: orange; width: 100%; height: 5%;}
+    
+    .seccion {display: flex; background-color: white; width: 100%; height: 95%; justify-items: center; align-items: center; flex-direction: column;}
+    
+    .seccion1 {display: flex; background-color: white; width: 95%; height: 100%;justify-content: center; align-items: center;position: relative;}
+
+    .seccion33 {background-color: white; width: 90%; height: 100%; display: flex; flex-direction: column;}
+
+.seccion33a {background-color: white; height: 10%; margin-left: 2%; align-items: end; display: flex;}
+
+.seccion33b {background-color: rebeccapurple; height: 90%; display: flex; flex-direction: column;}
+
+.seccion33b1 {background-color: white; height: 50%; display: flex;  }
+.seccion33b1a {background-color: white; width: 30%; display: flex; align-items: center; justify-content: center;position: relative; border-bottom: 2px solid gray }
+.seccion33b1b {background-color: white; width: 50%; display: flex; flex-direction: column; justify-content: center; gap: 4%; border-bottom: 2px solid gray;}
+
+
+
+
+
+
+.seccion33b1ba {background-color: white; }
+.seccion33b1bb {background-color: yellow; }
+.seccion33b1bc {background-color: white; }
+
+.imagem {
+
+    background-color: white;
+    width: 246px;
+    height: 180px;
+    position: absolute;
+    bottom: 21%;
+   
+   
+    
+   
+    }
+
+
+.seccion33b2 {background-color: white; height: 50%; display: flex;}
+
+.seccion33b3 {background-color: white; height: 50%;display: flex;}
+
+.seccion33b4 {background-color: white; height: 50%;display: flex;}
+
+.click {height: 100%; display: flex; flex-direction: column; justify-content: center; gap: 4%;}
+.click:hover {opacity: 0.5; cursor: pointer;}
+}
+ 

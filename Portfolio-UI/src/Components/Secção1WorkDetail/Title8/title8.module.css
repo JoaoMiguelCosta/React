@@ -1,0 +1,25 @@
+@media (max-width: 48rem) {
+    .title8 {
+        display: none;
+    }
+}
+
+@media (min-width: 48rem) {
+    .pai {display: flex ; flex-direction: column;        width: 506px;
+        height: 100px;
+        
+       }
+    .title8 { 
+        font-family: 'Heebo';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 34px;
+        line-height: 50px;
+        
+        
+        color: #21243D;
+ 
+    }
+
+   
+}
